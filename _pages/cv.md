@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="resume.pdf" width="1000" height="1000" type='/files/'/> </object>
+This is a test.
