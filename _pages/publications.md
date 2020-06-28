@@ -4,6 +4,7 @@ title: "Publications NewOne"
 permalink: /publications/
 author_profile: true
 entries_layouts: grid
+type: grid
 ---
 
 {% if author.googlescholar %}
