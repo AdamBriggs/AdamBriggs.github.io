@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Publications NewOne"
+title: "Publications Again"
 permalink: /publications/
 author_profile: true
 entries_layouts: grid
