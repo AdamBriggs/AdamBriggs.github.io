@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications Again"
+title: "Publications New"
 permalink: /publications/
 author_profile: true
 entries_layouts: grid
