@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Resume"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # ​ Adam Briggs
 
 CMC Box 271829 ​abriggs6@u.rochester.edu
