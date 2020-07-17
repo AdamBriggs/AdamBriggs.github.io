@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
 
   - title: "Resume"
-    url: /_pdf/F2020-Resume.pdf
+    url: ({{ site.url }}/_pdf/F2020-Resume.pdf)
 
   #- title: "Guide"
   #  url: /markdown/
